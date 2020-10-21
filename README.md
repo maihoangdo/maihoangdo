@@ -1,4 +1,4 @@
-### I'm Mai Do 👋
+### Hello, I'm Mai Do 👋
 
 - 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning Data Analyst inNortheastern University
