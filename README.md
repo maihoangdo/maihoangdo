@@ -1,9 +1,9 @@
 ### Hello, I'm Mai Do 👋
 
-- 🔭 I’m currently working on my projects
-- 🌱 I’m currently studying Data Analyst at Northeastern University
+- 🔭 I’m a Data Analyst
+- 🌱 I almost finish my Master degree in Analystics at Northeastern University
 - 💬 Ask me about Anything
-- 📬 How to reach me: [Instagram @maido1991](https://www.instagram.com/maido1991/)
+- 📬 How to reach me: hoangmai187@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I belong to Slytherin with Gryffindor heart 
 
